@@ -62,10 +62,6 @@ This plan is intended to be matched closely by the implemented API in Part 2; an
  
 The SQL script matches the ERD exactly — no deviations. The `Roles` table was included as its own entity (rather than a plain text column on `Users`) specifically to demonstrate role-based system design ahead of Part 2's authentication endpoints.
  
-## Next steps (Part 2)
- 
-Part 2 will implement the RESTful API against this schema, covering authentication, user profiles, events, categories, enrolments, and results.
- 
 ## Figma Prototype
  
 A Figma prototype for RaceDay is being designed from the planning artifacts above, covering the core screens implied by the ERD, the user roles, and the API endpoint plan:
@@ -76,4 +72,6 @@ A Figma prototype for RaceDay is being designed from the planning artifacts abov
 - **Shared** — event details screen, results/leaderboard view
 Prototype link: `[Add Figma link here]`
  
+## Next steps (Part 2)
  
+Part 2 will implement the RESTful API against this schema, covering authentication, user profiles, events, categories, enrolments, and results. 
