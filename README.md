@@ -1,3 +1,6 @@
+https://youtu.be/RehhAsktljA?feature=shared
+The YouTube link above provides a brief explanation of Parts that were done for Part 1 of the RaceDay project. It includes the ERD diagram and SQL code along with their explanations.
+
 # RaceDay — Part 1: System Planning and Database
  
 Individual PoE project for a full-stack event management platform for South African road running, walking, and cycling events.
